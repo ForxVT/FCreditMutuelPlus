@@ -1,0 +1,9 @@
+Package: com.forx.creditmutuelplus
+Name: FCreditMutuelPlus
+Depends: mobilesubstrate
+Version: 1.0.0
+Architecture: iphoneos-arm
+Description: Hide jailbreak from Credit Mutuel
+Maintainer: Forx
+Author: Forx
+Section: Tweaks

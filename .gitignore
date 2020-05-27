@@ -1,0 +1,8 @@
+# macOS
+.DS_Store
+
+# DragonBuild
+.dragon/
+packages/
+python3
+build.ninja

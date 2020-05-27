@@ -1,0 +1,9 @@
+---
+name: FCreditMutuelPlus
+icmd: sbreload
+FCreditMutuelPlus:
+  files:
+  - Source/Tweak.xm
+  type: tweak
+  frameworks:
+    - Foundation
