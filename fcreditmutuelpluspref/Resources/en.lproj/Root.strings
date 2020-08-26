@@ -1,0 +1,9 @@
+GENERAL = "General";
+GENERAL_ENABLE = "Enable";
+ABOUT_TWEAK = "About This Tweak";
+SOURCE_CODE = "Access Source Code";
+ABOUT_ME = "About Me";
+TWITTER = "Follow Me On Twitter";
+REDDIT = "Follow Me On Reddit";
+GITHUB = "Follow Me On GitHub";
+PAYPAL = "Make A Donation";

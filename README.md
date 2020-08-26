@@ -1,3 +1,3 @@
 # FCreditMutuelPlus
-Distributed under the MIT license
-Copyright (c) 2020 Forx
+Distributed under the MIT license  
+Copyright &copy; 2020 Hugo Kindel

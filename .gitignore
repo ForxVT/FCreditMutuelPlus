@@ -1,8 +1,9 @@
 # macOS
 .DS_Store
 
-# DragonBuild
-.dragon/
+# Theos
+.theos/
 packages/
-python3
-build.ninja
+
+# Dragon
+.dragon/
